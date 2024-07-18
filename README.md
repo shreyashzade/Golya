@@ -337,4 +337,5 @@ So we will let the model do forecasting based on last 30 days, and we will going
 <img src="simulation/portfolio-optimization.png" width="40%" align="">
 #   G o l y a  
  #   g o l y a a a  
+ #   G o l y a  
  
